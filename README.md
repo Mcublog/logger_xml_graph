@@ -1,4 +1,5 @@
 # logger_xml_graph
+
 Python script for visualistion data logs
 
 ## Issue: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
